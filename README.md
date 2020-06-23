@@ -5,4 +5,10 @@ Hello this is me. I am experimenting with all this stuff and I am currently read
 
 <br>
 
-Cheers
+Prost
+
+## Neuste Änderungen
+Wie kann man zwei Commits machen?
+
+# weitere
+Ich denke ich weiß es. EInfach noch mehr Änderungen machen
