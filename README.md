@@ -9,3 +9,6 @@ Prost
 
 ## Neuste Änderungen
 Wie kann man zwei Commits machen?
+
+# weitere
+Ich denke ich weiß es. EInfach noch mehr Änderungen machen
